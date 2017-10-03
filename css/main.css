@@ -1,0 +1,19 @@
+body, html, main {
+  background: lightgrey;
+  color: black;
+}
+
+body > p {
+  display: block;
+  margin-top: 25px;
+  text-align: center;
+}
+
+canvas {
+  display: block;
+  margin: auto;
+}
+
+.navbar {
+  border-radius: 0;
+}
